@@ -10,7 +10,7 @@ Monitor the health of vehicles remotely.
 3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
 4. Open the OBDWiz software and run a diagnostics test 
 5. Save diagnostic report as text file to local disk
-6. Upload data from local folder to S3 input bucket - s3://obd-diagnostic-input/
+6. Upload data from local folder to S3 input bucket _s3://obd-diagnostic-input/_
 
 # ETL
 - "Processor Lambda" reads data from S3, processes that data using Spark, and writes processed data as a set of dimensional tables back to S3
