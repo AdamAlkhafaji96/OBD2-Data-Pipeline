@@ -1,0 +1,1333 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+    table { border-width: 1px; border-color: #000000; border-collapse: collapse; border-style: solid; }
+    th    { border-width: 1px; border-spacing: 0px; border-color: #696969; border-collapse: collapse; border-style: solid; }
+    td    { border-width: 1px; border-spacing: 0px; border-color: #696969; border-collapse: collapse; border-style: solid; }
+    .tableHeader { background-color: #E5E5E5; }
+    .tableRow { background-color: #FFFFFF; }
+    .tableAlternateRow { background-color: #F5F5F5; }
+
+body { background-color: #FFFFFF}
+    </style>
+  </head>
+  <body>
+    <div style="text-align: left; padding: 50px; padding-top: 0px; ">
+  <span style="font-size: x-large"></span>
+<hr />
+<h1 style="text-align: center;">Diagnostic Report</h1>
+
+<br />
+
+<div style="color: Silver"><table style="border-width: 0px;" width="100%"><tr><td style="border-width: 0px;" align="left">Created by OBDwiz - OCTech, LLC</td><td style="border-width: 0px;" align="right">www.obdsoftware.net</td></tr></table></div>
+<div><hr />
+<br />
+
+<b>Date:</b> 1/21/2022 3:21:28 PM
+<br />
+
+
+<br />
+
+<b>VIN:</b> 5FNRL38298B059566
+<br />
+
+<b>Manufacturer:</b> Honda
+<br />
+
+<b>Model:</b> Odyssey
+<br />
+
+<b>Option:</b> LX
+<br />
+
+<b>Year:</b> 2008
+<br />
+
+</div>
+<br />
+
+<div><hr />
+<h2>Monitor Status Report</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>Name</th>
+<th>Continuous</th>
+<th>Available</th>
+<th>Complete</th>
+</tr>
+<tr class="tableRow">
+<td>Misfire</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Fuel System</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Components</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Catalyst</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Heated Catalyst</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Evap System</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Secondary Air System</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>AC Refrigerant</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Oxygen Sensor</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Oxygen Sensor Heater</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>EGR System</td>
+<td><span style="color: Red"><b>No</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+</table> 
+</div>
+
+
+<br />
+
+<span style="color: #FFA500"><b>MIL On</b></span>
+<br />
+
+Number of Confirmed Codes: 3
+<br />
+
+
+<br />
+
+<b>This vehicle is not ready for emissions testing.</b>
+<br />
+
+</div>
+<div><hr />
+<h2>Trouble Code Report</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>ECU</th>
+<th>Code</th>
+<th>Type</th>
+<th>Status</th>
+<th>Description</th>
+</tr>
+<tr class="tableRow">
+<td>11</td>
+<td>P0443</td>
+<td>PowerTrain</td>
+<td>Confirmed</td>
+<td>Evaporative Emission System Purge Control Valve Circuit</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>11</td>
+<td>P145C</td>
+<td>PowerTrain</td>
+<td>Confirmed</td>
+<td>Manufacturer Defined</td>
+</tr>
+<tr class="tableRow">
+<td>11</td>
+<td>P0497</td>
+<td>PowerTrain</td>
+<td>Confirmed</td>
+<td>Evaporative Emission System Low Purge Flow</td>
+</tr>
+</table> 
+</div>
+
+<p><h3>Additional Information</h3>
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>PID</th>
+<th>Description</th>
+<th>Value</th>
+<th>Units</th>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x21</td>
+<td>Distance traveled while MIL is activated</td>
+<td>169.63</td>
+<td>miles</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x30</td>
+<td>Number of warm-ups since DTCs cleared</td>
+<td>236</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x31</td>
+<td>Distance traveled since DTCs cleared</td>
+<td>1800.11</td>
+<td>miles</td>
+</tr>
+</table> 
+</div>
+
+</p>
+</div>
+
+<br />
+
+<div><hr />
+<h2>Mode $01 - Powertrain Diagnostic Data</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>PID</th>
+<th>Description</th>
+<th>Value</th>
+<th>Units</th>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x03</td>
+<td>Fuel system 1 status</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x03</td>
+<td>Fuel system 2 status</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x04</td>
+<td>Calculated load value</td>
+<td>29.8</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x05</td>
+<td>Engine coolant temperature</td>
+<td>168.8</td>
+<td>°F</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x06</td>
+<td>Short term fuel % trim - Bank 1</td>
+<td>12.5</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x07</td>
+<td>Long term fuel % trim - Bank 1</td>
+<td>14.84</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x08</td>
+<td>Short term fuel % trim - Bank 2</td>
+<td>12.5</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x09</td>
+<td>Long term fuel % trim - Bank 2</td>
+<td>14.84</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x0B</td>
+<td>Intake manifold absolute pressure</td>
+<td>7.09</td>
+<td>inHg</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x0C</td>
+<td>Engine RPM</td>
+<td>687</td>
+<td>RPM</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x0D</td>
+<td>Vehicle speed</td>
+<td>0</td>
+<td>MPH</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x0E</td>
+<td>Ignition timing advance for #1 cylinder</td>
+<td>9</td>
+<td>deg</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x0F</td>
+<td>Intake air temperature</td>
+<td>80.6</td>
+<td>°F</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x10</td>
+<td>Mass air flow rate</td>
+<td>0.44</td>
+<td>lb/min</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x11</td>
+<td>Absolute throttle position</td>
+<td>14.51</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x13</td>
+<td>Location of oxygen sensors</td>
+<td>51</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x15</td>
+<td>O2 voltage (Bank 1, Sensor 2)</td>
+<td>0.655</td>
+<td>V</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x15</td>
+<td>Short term fuel trim (Bank 1, Sensor 2)</td>
+<td>11.719</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x19</td>
+<td>O2 voltage (Bank 2, Sensor 2)</td>
+<td>0.605</td>
+<td>V</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x19</td>
+<td>Short term fuel trim (Bank 2, Sensor 2)</td>
+<td>12.5</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x1C</td>
+<td>OBD requirements to which vehicle or engine is certified</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x1F</td>
+<td>Time since engine start</td>
+<td>687</td>
+<td>sec</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x21</td>
+<td>Distance traveled while MIL is activated</td>
+<td>169.63</td>
+<td>miles</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x2C</td>
+<td>Commanded EGR</td>
+<td>0</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x2D</td>
+<td>EGR error</td>
+<td>99.22</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x2E</td>
+<td>Commanded evaporative purge</td>
+<td>17.25</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x2F</td>
+<td>Fuel level input</td>
+<td>69.02</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x30</td>
+<td>Number of warm-ups since DTCs cleared</td>
+<td>236</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x31</td>
+<td>Distance traveled since DTCs cleared</td>
+<td>1800.11</td>
+<td>miles</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x32</td>
+<td>Evap system vapor pressure</td>
+<td>-0.37</td>
+<td>inH2O</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x33</td>
+<td>Barometric pressure</td>
+<td>29.83</td>
+<td>inHg</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x34</td>
+<td>O2 sensor lambda wide range (current probe)  (Bank 1, Sensor 1)</td>
+<td>0.999</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x34</td>
+<td>O2 sensor current wide range (Bank 1, Sensor 1)</td>
+<td>-0.008</td>
+<td>mA</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x38</td>
+<td>O2 sensor lambda wide range (current probe)  (Bank 2, Sensor 1)</td>
+<td>0.995</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x38</td>
+<td>O2 sensor current wide range (Bank 2, Sensor 1)</td>
+<td>-0.043</td>
+<td>mA</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x3C</td>
+<td>Catalyst temperature (Bank 1 Sensor 1)</td>
+<td>933.44</td>
+<td>°F</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x3D</td>
+<td>Catalyst temperature (Bank 2 Sensor 1)</td>
+<td>933.44</td>
+<td>°F</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x42</td>
+<td>Control module voltage</td>
+<td>13.88</td>
+<td>V</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x43</td>
+<td>Absolute load value</td>
+<td>24.31</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x44</td>
+<td>Fuel/Air commanded equivalence ratio</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x45</td>
+<td>Relative throttle position</td>
+<td>3.53</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x47</td>
+<td>Absolute throttle position B</td>
+<td>31.37</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x49</td>
+<td>Accelerator pedal position D</td>
+<td>19.22</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>SAE 0x4A</td>
+<td>Accelerator pedal position E</td>
+<td>9.41</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>SAE 0x4C</td>
+<td>Commanded throttle actuator control</td>
+<td>3.53</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Aux 0x00</td>
+<td>Input voltage read by the scan tool</td>
+<td>14.2</td>
+<td>V</td>
+</tr>
+</table> 
+</div>
+
+</div>
+
+<br />
+
+<div><hr />
+<h2>Mode $02 - Freeze Frame</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>PID</th>
+<th>Description</th>
+<th>Value</th>
+<th>Units</th>
+</tr>
+<tr class="tableRow">
+<td>0x02</td>
+<td>Freeze frame DTC</td>
+<td>P0443</td>
+<td></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x03</td>
+<td>Fuel system 1 status</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr class="tableRow">
+<td>0x03</td>
+<td>Fuel system 2 status</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x04</td>
+<td>Calculated load value</td>
+<td>62.35</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x05</td>
+<td>Engine coolant temperature</td>
+<td>185</td>
+<td>°F</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x06</td>
+<td>Short term fuel % trim - Bank 1</td>
+<td>12.5</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x07</td>
+<td>Long term fuel % trim - Bank 1</td>
+<td>4.69</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x08</td>
+<td>Short term fuel % trim - Bank 2</td>
+<td>10.94</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x09</td>
+<td>Long term fuel % trim - Bank 2</td>
+<td>4.69</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x0B</td>
+<td>Intake manifold absolute pressure</td>
+<td>19.19</td>
+<td>inHg</td>
+</tr>
+<tr class="tableRow">
+<td>0x0C</td>
+<td>Engine RPM</td>
+<td>1874</td>
+<td>RPM</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x0D</td>
+<td>Vehicle speed</td>
+<td>25.48</td>
+<td>MPH</td>
+</tr>
+<tr class="tableRow">
+<td>0x0E</td>
+<td>Ignition timing advance for #1 cylinder</td>
+<td>18</td>
+<td>deg</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x0F</td>
+<td>Intake air temperature</td>
+<td>161.6</td>
+<td>°F</td>
+</tr>
+<tr class="tableRow">
+<td>0x10</td>
+<td>Mass air flow rate</td>
+<td>4.35</td>
+<td>lb/min</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x11</td>
+<td>Absolute throttle position</td>
+<td>24.71</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x1F</td>
+<td>Time since engine start</td>
+<td>480</td>
+<td>sec</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x2C</td>
+<td>Commanded EGR</td>
+<td>41.18</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x2D</td>
+<td>EGR error</td>
+<td>0</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x2E</td>
+<td>Commanded evaporative purge</td>
+<td>30.2</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x2F</td>
+<td>Fuel level input</td>
+<td>68.24</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x33</td>
+<td>Barometric pressure</td>
+<td>28.94</td>
+<td>inHg</td>
+</tr>
+<tr class="tableRow">
+<td>0x42</td>
+<td>Control module voltage</td>
+<td>13.48</td>
+<td>V</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x43</td>
+<td>Absolute load value</td>
+<td>48.24</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x44</td>
+<td>Fuel/Air commanded equivalence ratio</td>
+<td>0.98</td>
+<td></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x45</td>
+<td>Relative throttle position</td>
+<td>17.65</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x47</td>
+<td>Absolute throttle position B</td>
+<td>39.22</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x49</td>
+<td>Accelerator pedal position D</td>
+<td>32.16</td>
+<td>%</td>
+</tr>
+<tr class="tableRow">
+<td>0x4A</td>
+<td>Accelerator pedal position E</td>
+<td>15.69</td>
+<td>%</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x4C</td>
+<td>Commanded throttle actuator control</td>
+<td>18.82</td>
+<td>%</td>
+</tr>
+</table> 
+</div>
+
+</div>
+
+<br />
+
+<div><hr />
+<h2>Mode $05 - Oxygen Sensors</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>Sensor</th>
+<th>Available</th>
+</tr>
+<tr class="tableRow">
+<td>Bank 1 - Sensor 1</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Bank 1 - Sensor 2</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Bank 1 - Sensor 3</td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Bank 1 - Sensor 4</td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Bank 2 - Sensor 1</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Bank 2 - Sensor 2</td>
+<td><span style="color: Green"><b>Yes</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>Bank 2 - Sensor 3</td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Bank 2 - Sensor 4</td>
+<td><span style="color: Red"><b>No</b></span></td>
+</tr>
+</table> 
+</div>
+
+</div>
+
+<br />
+
+<div><hr />
+<h2>Mode $06 - On-Board Monitoring</h2>
+<br />
+
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>Component</th>
+<th>Description</th>
+<th>Value</th>
+<th>Minimum</th>
+<th>Maximum</th>
+<th>Units</th>
+<th>Result</th>
+</tr>
+<tr class="tableRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $80 - Manufacturer Defined</td>
+<td>25</td>
+<td>0</td>
+<td>40</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $81 - Manufacturer Defined</td>
+<td>0.075</td>
+<td>0</td>
+<td>0.11</td>
+<td>kOhm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $87 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>kOhm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $82 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $88 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $83 - Manufacturer Defined</td>
+<td>-0.0508</td>
+<td>-128</td>
+<td>3.0469</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $84 - Manufacturer Defined</td>
+<td>3.5156</td>
+<td>1.2227</td>
+<td>5.5664</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $85 - Manufacturer Defined</td>
+<td>1428</td>
+<td>34</td>
+<td>65535</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$01 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 1</td>
+<td>TID $86 - Manufacturer Defined</td>
+<td>-0.0508</td>
+<td>-128</td>
+<td>6</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$02 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 2</td>
+<td>TID $98 - Manufacturer Defined</td>
+<td>0.775</td>
+<td>0.65</td>
+<td>65.535</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$02 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 2</td>
+<td>TID $99 - Manufacturer Defined</td>
+<td>0.108</td>
+<td>0</td>
+<td>0.293</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$02 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 2</td>
+<td>TID $9A - Manufacturer Defined</td>
+<td>0.573</td>
+<td>0</td>
+<td>1.27</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$02 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 2</td>
+<td>TID $9C - Manufacturer Defined</td>
+<td>0.573</td>
+<td>0.05</td>
+<td>65.535</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$02 - Exhaust Gas Sensor Monitor Bank 1 – Sensor 2</td>
+<td>TID $9B - Manufacturer Defined</td>
+<td>0.06</td>
+<td>0</td>
+<td>0.51</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $80 - Manufacturer Defined</td>
+<td>25</td>
+<td>0</td>
+<td>40</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $81 - Manufacturer Defined</td>
+<td>0.074</td>
+<td>0</td>
+<td>0.11</td>
+<td>kOhm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $87 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>kOhm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $82 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $88 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $83 - Manufacturer Defined</td>
+<td>0.0078</td>
+<td>-128</td>
+<td>3.0586</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $84 - Manufacturer Defined</td>
+<td>3.5156</td>
+<td>1.2344</td>
+<td>5.5742</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $85 - Manufacturer Defined</td>
+<td>1075</td>
+<td>34</td>
+<td>65535</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$05 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 1</td>
+<td>TID $86 - Manufacturer Defined</td>
+<td>0</td>
+<td>-128</td>
+<td>6.0078</td>
+<td>mA</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$06 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 2</td>
+<td>TID $98 - Manufacturer Defined</td>
+<td>0.756</td>
+<td>0.65</td>
+<td>65.535</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$06 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 2</td>
+<td>TID $99 - Manufacturer Defined</td>
+<td>0.136</td>
+<td>0</td>
+<td>0.293</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$06 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 2</td>
+<td>TID $9A - Manufacturer Defined</td>
+<td>0.592</td>
+<td>0</td>
+<td>1.27</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$06 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 2</td>
+<td>TID $9C - Manufacturer Defined</td>
+<td>0.592</td>
+<td>0.05</td>
+<td>65.535</td>
+<td>V</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$06 - Exhaust Gas Sensor Monitor Bank 2 – Sensor 2</td>
+<td>TID $9B - Manufacturer Defined</td>
+<td>0.05</td>
+<td>0</td>
+<td>0.51</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$21 - Catalyst Monitor Bank 1</td>
+<td>TID $A0 - Manufacturer Defined</td>
+<td>668</td>
+<td>0</td>
+<td>816</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$22 - Catalyst Monitor Bank 2</td>
+<td>TID $A0 - Manufacturer Defined</td>
+<td>327</td>
+<td>0</td>
+<td>784</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$31 - EGR Monitor Bank 1</td>
+<td>TID $D0 - Manufacturer Defined</td>
+<td>0.0279</td>
+<td>0</td>
+<td>0.0401</td>
+<td>mm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$31 - EGR Monitor Bank 1</td>
+<td>TID $D1 - Manufacturer Defined</td>
+<td>0.0696</td>
+<td>0.0059</td>
+<td>1.9988</td>
+<td>mm</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$31 - EGR Monitor Bank 1</td>
+<td>TID $D2 - Manufacturer Defined</td>
+<td>85.51</td>
+<td>15.01</td>
+<td>327.68</td>
+<td>%</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$3A - EVAP Monitor (0.090”)</td>
+<td>TID $BA - Manufacturer Defined</td>
+<td>29</td>
+<td>0</td>
+<td>1200</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$3C - EVAP Monitor (0.020”)</td>
+<td>TID $B4 - Manufacturer Defined</td>
+<td>0.9104</td>
+<td>0</td>
+<td>1.8495</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$3C - EVAP Monitor (0.020”)</td>
+<td>TID $B5 - Manufacturer Defined</td>
+<td>-0.47</td>
+<td>-327.68</td>
+<td>25.6</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$3C - EVAP Monitor (0.020”)</td>
+<td>TID $B6 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$3C - EVAP Monitor (0.020”)</td>
+<td>TID $B7 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>sec</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$3C - EVAP Monitor (0.020”)</td>
+<td>TID $B8 - Manufacturer Defined</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>Pa</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$3D - Purge Flow Monitor</td>
+<td>TID $B9 - Manufacturer Defined</td>
+<td>100.0064</td>
+<td>20.0028</td>
+<td>100.0064</td>
+<td>%</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$81 - Fuel System Monitor Bank 1</td>
+<td>TID $D8 - Manufacturer Defined</td>
+<td>1.1546</td>
+<td>0.773</td>
+<td>1.2493</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$82 - Fuel System Monitor Bank 2</td>
+<td>TID $D8 - Manufacturer Defined</td>
+<td>1.1531</td>
+<td>0.773</td>
+<td>1.2493</td>
+<td></td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$A2 - Misfire Cylinder 1 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$A3 - Misfire Cylinder 2 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$A4 - Misfire Cylinder 3 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$A5 - Misfire Cylinder 4 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableRow">
+<td>$A6 - Misfire Cylinder 5 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+<tr class="tableAlternateRow">
+<td>$A7 - Misfire Cylinder 6 Data</td>
+<td>TID $0C - Misfire counts for last/current driving cycles (calculated, rounded to an integer value)</td>
+<td>0</td>
+<td>0</td>
+<td>65535</td>
+<td>counts</td>
+<td><span style="color: Green"><b>Pass</b></span></td>
+</tr>
+</table> 
+</div>
+
+</div>
+
+<br />
+
+<div><hr />
+<h2>Mode $09 - Vehicle Information</h2>
+<br />
+
+<p><h3>General Information</h3>
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>Description</th>
+<th>Value</th>
+</tr>
+<tr class="tableRow">
+<td>Vehicle Identification Number</td>
+<td>5FNRL38298B059566</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>Calibration ID - $11</td>
+<td>37805-RGL-A930</td>
+</tr>
+<tr class="tableRow">
+<td>Calibration Verification Number - $11</td>
+<td>18FEEE48</td>
+</tr>
+</table> 
+</div>
+
+</p>
+<p><h3>In-Performance Tracking</h3>
+<div align="left">
+<table cellpadding="3" cellspacing="1" style="text-align:center" border="1" width="100%">
+<tr class="tableHeader">
+<th>Counter</th>
+<th>Description</th>
+<th>Value</th>
+</tr>
+<tr class="tableRow">
+<td>0x00</td>
+<td>OBD Monitoring Conditions Encountered Counts</td>
+<td>3188</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x01</td>
+<td>Ignition Cycle Counter</td>
+<td>12049</td>
+</tr>
+<tr class="tableRow">
+<td>0x02</td>
+<td>Catalyst Monitor Completion Counts Bank 1</td>
+<td>1763</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x03</td>
+<td>Catalyst Monitor Conditions Encountered Counts Bank 1</td>
+<td>3145</td>
+</tr>
+<tr class="tableRow">
+<td>0x04</td>
+<td>Catalyst Monitor Completion Counts Bank 2</td>
+<td>1753</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x05</td>
+<td>Catalyst Monitor Conditions Encountered Counts Bank 2</td>
+<td>3145</td>
+</tr>
+<tr class="tableRow">
+<td>0x06</td>
+<td>O2 Sensor Monitor Completion Counts Bank 1</td>
+<td>3820</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x07</td>
+<td>O2 Sensor Monitor Conditions Encountered Counts Bank 1</td>
+<td>3145</td>
+</tr>
+<tr class="tableRow">
+<td>0x08</td>
+<td>O2 Sensor Monitor Completion Counts Bank 2</td>
+<td>3791</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x09</td>
+<td>O2 Sensor Monitor Conditions Encountered Counts Bank 2</td>
+<td>3145</td>
+</tr>
+<tr class="tableRow">
+<td>0x0A</td>
+<td>EGR and/or VVT Monitor Completion Condition Counts</td>
+<td>5842</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x0B</td>
+<td>EGR and/or VVT Monitor Conditions Encountered Counts</td>
+<td>3148</td>
+</tr>
+<tr class="tableRow">
+<td>0x0E</td>
+<td>EVAP Monitor Completion Condition Counts</td>
+<td>296</td>
+</tr>
+<tr class="tableAlternateRow">
+<td>0x0F</td>
+<td>EVAP Monitor Conditions Encountered Counts</td>
+<td>700</td>
+</tr>
+</table> 
+</div>
+
+</p>
+</div>
+
+<br />
+
+    </div>
+  </body>
+</html>
