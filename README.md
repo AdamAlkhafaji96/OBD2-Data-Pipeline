@@ -3,6 +3,17 @@ Monitor the health of vehicles remotely.
  
 # ETL Design 
 ![image](https://user-images.githubusercontent.com/76083769/148834719-e6a579a5-0aac-4478-b291-30272760181e.png)
+Steps
+# Pre-ETL Data Retrieval
+- Start the vehicle engine.
+- Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
+- Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
+- Open the OBDWiz software and run a diagnostics test 
+- Save diagnostic report as text file to local disk
+- Upload data from local folder to S3 input bucket - s3://obd-diagnostic-input/
+
+# ETL
+- "Processor Lambda" reads data from S3, processes that data using Spark, and writes processed data as a set of dimensional tables back to S3
 
 # Data Model
 ![OBD_erd](https://user-images.githubusercontent.com/76083769/150624827-f35bf4f9-446c-4672-9455-c903e7916505.JPG)
