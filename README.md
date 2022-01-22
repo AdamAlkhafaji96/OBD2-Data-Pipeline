@@ -13,7 +13,9 @@ Monitor the health of vehicles remotely.
 6. Upload data from local folder to S3 --> _s3://obd-diagnostic-input/_
 
 # ETL
-- reads data from S3, processes that data using EMR and Spark, and writes processed data as a set of dimensional tables back to S3
+- Read data from S3
+- Processes that data using EMR and Spark
+- Write processed data as a set of dimensional tables back to S3
 
 # Data Model
 ![OBD_erd](https://user-images.githubusercontent.com/76083769/150624827-f35bf4f9-446c-4672-9455-c903e7916505.JPG)
