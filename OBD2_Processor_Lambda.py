@@ -141,3 +141,4 @@ def html_to_parquet():
                          mode='append')
         
     return f"Etl Success for {vals['Manufacturer']} {vals['Model']} {vals['Year']}"
+
