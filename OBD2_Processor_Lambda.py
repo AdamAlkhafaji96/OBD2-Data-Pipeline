@@ -122,7 +122,7 @@ def html_to_parquet():
             
         target_4 = 'In-Performance Tracking'
         h3 = soup('h3')
-        check_4 = [h3[element].text for element, _ in enumerate(h3)]
+        check_4 = [h3[idx].text for idx, _ in enumerate(h3)]
         if target_4 not in check_4:
             frames['in_performance_tracking'] = False
         
