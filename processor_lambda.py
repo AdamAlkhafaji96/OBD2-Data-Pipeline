@@ -15,7 +15,7 @@ def html_to_parquet():
     s3 = boto3.client('s3')
     
     raw_bucket = 'obd-diagnostic-data-input'
-    key = 'Diagnostic Report Honda Pilot 2017 1_21_2022.html'    
+    key = 'Diagnostic Report Honda Odyssey 2008 1_11_2022.html'    
     
     pandas_response = s3.get_object(Bucket=raw_bucket, Key=key)
     soup_response = s3.get_object(Bucket=raw_bucket, Key=key)
@@ -72,7 +72,7 @@ def html_to_parquet():
     
     car_name = f"{vals['Manufacturer']}_{vals['Model']}_{vals['Year']}"
 
-    file_name = f"{car_name}/VIN: {vals['VIN']}/{'vehicle_report_info'}/{file_date}"
+    file_name = f"{car_name}/VIN: {vals['VIN']}/vehicle_report_info/{file_date}"
     
     path_1 = f"s3://obd-diagnostic-data-output/{file_name}"
     
