@@ -14,7 +14,7 @@ Monitor the health of vehicles remotely.
 
 # ETL
 - Read data from AWS S3 
-- Processes that data using AWS Lambda 
+- Processes that data using AWS Lamba --> _processor_lambda.py_
 - Write processed data as a set of dimensional tables back to S3
 
 # Data Model
