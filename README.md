@@ -8,21 +8,24 @@ Monitor the health of vehicles remotely.
 1. Start the vehicle engine.
 2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
 3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
-4. Open the OBDWiz software and run a diagnostics test 
-5. Save diagnostic report as text file to local disk
-6. Upload data from local folder to S3 --> _s3://obd-diagnostic-input/_
+4. Open the OBDWiz software and run a "diagnostics test".
+5. Save diagnostic report as text file to local disk. 
+6. Sync data from local folder to AWS S3 --> _s3://obd-diagnostic-data-input/_
 
 # ETL
-- Read data from S3
-- Processes that data using EMR and Spark
+- Read data from AWS S3 
+- Processes that data using AWS Lambda 
 - Write processed data as a set of dimensional tables back to S3
 
 # Data Model
 ![OBD_erd](https://user-images.githubusercontent.com/76083769/150624827-f35bf4f9-446c-4672-9455-c903e7916505.JPG)
 
 # Data Sources 
+ - Honda Accord 2015
  - Honda Odyssey 2008
  - Honda Pilot 2017
+ - Toyota Camry 2018
+ - Volkswagen Jetta 2020
  
  # Hardware Specs 
  - [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/)
