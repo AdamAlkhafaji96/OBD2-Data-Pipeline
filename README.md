@@ -27,7 +27,11 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/155813589-7003d716-c3fc-491b-b0b5-9eca20458cd3.png)
 
 # Data Model
-![OBD_erd](https://user-images.githubusercontent.com/76083769/150624827-f35bf4f9-446c-4672-9455-c903e7916505.JPG)
+![image](https://user-images.githubusercontent.com/76083769/155823228-68e36451-79ca-408a-ab94-c1ee74fc946d.png)
+
+# Paritions
+![image](https://user-images.githubusercontent.com/76083769/155823160-b4abb5b3-7f06-4274-8024-862fee279551.png)
+
 
 # Data Sources 
  - Honda Accord 2015
