@@ -28,8 +28,6 @@ Monitor the health of vehicles remotely.
 
 # Data Model
 ![image](https://user-images.githubusercontent.com/76083769/155823228-68e36451-79ca-408a-ab94-c1ee74fc946d.png)
-
-# Paritions
 ![image](https://user-images.githubusercontent.com/76083769/155823160-b4abb5b3-7f06-4274-8024-862fee279551.png)
 
 
