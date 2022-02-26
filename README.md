@@ -27,13 +27,13 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/155828273-4fea0ed7-80de-4431-9697-3ae50d7660d0.png)
 
 # AWS Glue
-- Data Catalog of tables created using Crawlers 
+- Crawlers 
 ![image](https://user-images.githubusercontent.com/76083769/155834706-b7875bbf-2f76-4781-8406-d4541b4f0307.png)
-
+- Data Catalog
 ![image](https://user-images.githubusercontent.com/76083769/155834467-542ec8f3-3f90-4635-a2fe-3cbf1033ebd2.png)
 
 # AWS Athena 
-
+-
 ![image](https://user-images.githubusercontent.com/76083769/155836089-49f78521-af51-4f70-ba00-f423bb03abe5.png)
 
 # Data Sources 
