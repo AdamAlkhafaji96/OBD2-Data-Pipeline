@@ -26,10 +26,8 @@ Monitor the health of vehicles remotely.
 
 ![image](https://user-images.githubusercontent.com/76083769/155828273-4fea0ed7-80de-4431-9697-3ae50d7660d0.png)
 # Data Model
-- Non-relational schema created using AWS Glue Crawlers 
-![image](https://user-images.githubusercontent.com/76083769/155823228-68e36451-79ca-408a-ab94-c1ee74fc946d.png)
-
-![image](https://user-images.githubusercontent.com/76083769/155823160-b4abb5b3-7f06-4274-8024-862fee279551.png)
+- Tables created using AWS Glue Crawlers 
+![image](https://user-images.githubusercontent.com/76083769/155828723-55965a0b-5ae0-4395-b64b-8c84c41987b7.png)
 
 # Data Sources 
  - Honda Accord 2015
