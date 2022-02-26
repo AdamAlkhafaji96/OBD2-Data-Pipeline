@@ -10,15 +10,14 @@ Monitor the health of vehicles remotely.
 3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
 4. Open the OBDWiz software and run a "diagnostics test".
 5. Save diagnostic report as text file to local disk. 
-6. Sync data from local folder to AWS S3 input bucket --> _s3://obd-diagnostic-data-input/_
-
 ![image](https://user-images.githubusercontent.com/76083769/155813294-114cc19c-e392-48bc-ac44-c3abc8123374.png)
 
 ![image](https://user-images.githubusercontent.com/76083769/155813379-bd3f3beb-c3d2-4e5f-9f2b-73aafa1369c3.png)
 
 # ETL
-- Invoke _processor_lambda.py_ to process the raw html diagnostic data
-- Write processed data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
+1- Sync data from local folder to AWS S3 input bucket --> _s3://obd-diagnostic-data-input/_
+2- S3 sync triggers _processor_lambda.py_ to process the html diagnostic data.
+3- Writes processed data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
 ![image](https://user-images.githubusercontent.com/76083769/155828172-75d98463-3941-47c4-a441-f4e966637b79.png)
 
