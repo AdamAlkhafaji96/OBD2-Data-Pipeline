@@ -2,7 +2,7 @@
 Monitor the health of vehicles remotely. 
  
 # ETL Design 
-![image](https://user-images.githubusercontent.com/76083769/150627514-a00b7339-031f-49c5-88ae-15577e40fd32.png)
+![image](https://user-images.githubusercontent.com/76083769/155837691-7faa2c4e-601f-4ecf-8813-8ac03b1c547c.png)
 
 # Pre-ETL Data Retrieval
 1. Start the vehicle engine.
