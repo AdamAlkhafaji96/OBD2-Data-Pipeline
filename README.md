@@ -5,11 +5,11 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/155837691-7faa2c4e-601f-4ecf-8813-8ac03b1c547c.png)
 
 # Pre-ETL Data Retrieval
-1. Start the vehicle engine.
-2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
-3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
-4. Open the OBDWiz software and run a "diagnostics test".
-5. Save diagnostic report as text file to local disk. 
+ 1. Start the vehicle engine.
+ 2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
+ 3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
+ 4. Open the OBDWiz software and run a "diagnostics test".
+ 5. Save diagnostic report as text file to local disk. 
 ![image](https://user-images.githubusercontent.com/76083769/155813294-114cc19c-e392-48bc-ac44-c3abc8123374.png)
 
 # ETL
