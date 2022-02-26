@@ -33,7 +33,6 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/155834467-542ec8f3-3f90-4635-a2fe-3cbf1033ebd2.png)
 
 # AWS Athena 
--
 ![image](https://user-images.githubusercontent.com/76083769/155836089-49f78521-af51-4f70-ba00-f423bb03abe5.png)
 
 # Data Sources 
