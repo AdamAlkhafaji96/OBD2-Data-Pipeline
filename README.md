@@ -20,11 +20,7 @@ Monitor the health of vehicles remotely.
 - Invoke _processor_lambda.py_ to process the raw html diagnostic data
 - Write processed data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
-![image](https://user-images.githubusercontent.com/76083769/155813461-8f31dfe8-7ac7-436b-89a0-60868a582975.png)
-
-![image](https://user-images.githubusercontent.com/76083769/155813521-50a63dd2-930a-41e9-8266-e36f6775a9df.png)
-
-![image](https://user-images.githubusercontent.com/76083769/155813589-7003d716-c3fc-491b-b0b5-9eca20458cd3.png)
+![image](https://user-images.githubusercontent.com/76083769/155828172-75d98463-3941-47c4-a441-f4e966637b79.png)
 
 # Data Model
 - Non-relational schema created using AWS Glue Crawlers 
