@@ -25,7 +25,7 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/155828238-4be7aea0-fce0-4a6d-b603-0bd8d096c71f.png)
 
 ![image](https://user-images.githubusercontent.com/76083769/155828273-4fea0ed7-80de-4431-9697-3ae50d7660d0.png)
-# Data Model
+# Data Catalog
 - Tables created using AWS Glue Crawlers 
 ![image](https://user-images.githubusercontent.com/76083769/155828723-55965a0b-5ae0-4395-b64b-8c84c41987b7.png)
 
