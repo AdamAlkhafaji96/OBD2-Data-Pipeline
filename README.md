@@ -24,9 +24,11 @@ Monitor the health of vehicles remotely.
 
 ![image](https://user-images.githubusercontent.com/76083769/155828238-4be7aea0-fce0-4a6d-b603-0bd8d096c71f.png)
 
+![image](https://user-images.githubusercontent.com/76083769/155828273-4fea0ed7-80de-4431-9697-3ae50d7660d0.png)
 # Data Model
 - Non-relational schema created using AWS Glue Crawlers 
 ![image](https://user-images.githubusercontent.com/76083769/155823228-68e36451-79ca-408a-ab94-c1ee74fc946d.png)
+
 ![image](https://user-images.githubusercontent.com/76083769/155823160-b4abb5b3-7f06-4274-8024-862fee279551.png)
 
 # Data Sources 
