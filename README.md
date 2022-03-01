@@ -4,6 +4,17 @@ Monitor the health of vehicles remotely.
 # ETL Design 
 ![image](https://user-images.githubusercontent.com/76083769/155837691-7faa2c4e-601f-4ecf-8813-8ac03b1c547c.png)
 
+# Data Sources 
+ - 2008 Honda Odyssey
+ - 2013 Infiniti M37
+ - 2015 Honda Accord
+ - 2017 Acura RDX
+ - 2017 Honda Pilot
+ - 2017 Toyota Camry
+ - 2018 Toyota Camry
+ - 2020 Volkswagen Jetta
+ - 2022 Kia k5
+
 # Pre-ETL and Data Ingestion
  1. Start the vehicle engine.
  2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
@@ -34,17 +45,6 @@ Monitor the health of vehicles remotely.
 
 # AWS Athena 
 ![image](https://user-images.githubusercontent.com/76083769/155836089-49f78521-af51-4f70-ba00-f423bb03abe5.png)
-
-# Data Sources 
- - 2008 Honda Odyssey
- - 2013 Infiniti M37
- - 2015 Honda Accord
- - 2017 Acura RDX
- - 2017 Honda Pilot
- - 2017 Toyota Camry
- - 2018 Toyota Camry
- - 2020 Volkswagen Jetta
- - 2022 Kia k5
  
  # Hardware Specs 
  - [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/)
