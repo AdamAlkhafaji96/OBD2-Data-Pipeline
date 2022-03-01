@@ -39,11 +39,11 @@ Monitor the health of vehicles remotely.
 - Crawlers 
 ![image](https://user-images.githubusercontent.com/76083769/156142316-2d5606c6-6ba2-4ebf-98f2-86ed212d0662.png)
 - Data Catalog
-![image](https://user-images.githubusercontent.com/76083769/155834467-542ec8f3-3f90-4635-a2fe-3cbf1033ebd2.png)
+![image](https://user-images.githubusercontent.com/76083769/156147871-5fa2286d-e01e-42ab-9663-9c3eeabf8ef9.png)
 
 # AWS Athena 
-![image](https://user-images.githubusercontent.com/76083769/155836089-49f78521-af51-4f70-ba00-f423bb03abe5.png)
- 
+![image](https://user-images.githubusercontent.com/76083769/156147708-b84db3e8-a594-4e91-a05a-4788b86fe691.png) 
+
  # Hardware Specs 
  - [OBDLink MX+](https://www.obdlink.com/products/obdlink-mxp/)
  - [OBDLink MX+ Specs](https://www.obdlink.com/wp-content/uploads/2019/01/app_support.pdf)
