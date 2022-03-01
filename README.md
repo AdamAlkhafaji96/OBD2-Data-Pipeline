@@ -33,9 +33,7 @@ Monitor the health of vehicles remotely.
 
 ![image](https://user-images.githubusercontent.com/76083769/156135451-898681c2-7d5b-4ec0-bcfb-fea39c98788e.png)
 
-![image](https://user-images.githubusercontent.com/76083769/155828238-4be7aea0-fce0-4a6d-b603-0bd8d096c71f.png)
-
-![image](https://user-images.githubusercontent.com/76083769/155828273-4fea0ed7-80de-4431-9697-3ae50d7660d0.png)
+![image](https://user-images.githubusercontent.com/76083769/156138229-ffab6cea-b570-48e9-af69-db259a2b1ee9.png)
 
 # AWS Glue
 - Crawlers 
