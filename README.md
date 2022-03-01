@@ -40,6 +40,9 @@ Monitor the health of vehicles remotely.
 ![image](https://user-images.githubusercontent.com/76083769/156142316-2d5606c6-6ba2-4ebf-98f2-86ed212d0662.png)
 - Data Catalog
 ![image](https://user-images.githubusercontent.com/76083769/156147871-5fa2286d-e01e-42ab-9663-9c3eeabf8ef9.png)
+- Partitions
+![image](https://user-images.githubusercontent.com/76083769/156148405-8faf6b12-a960-4dfa-ac69-19b4445653e5.png)
+
 
 # AWS Athena 
 ![image](https://user-images.githubusercontent.com/76083769/156147708-b84db3e8-a594-4e91-a05a-4788b86fe691.png) 
