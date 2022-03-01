@@ -20,7 +20,7 @@ Monitor the health of vehicles remotely.
  2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
  3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
  4. Open the OBDWiz software and run a "diagnostics test".
- 5. Save diagnostic report as text file to local disk. 
+ 5. Save diagnostic report as html file to local disk. 
 
 ![image](https://user-images.githubusercontent.com/76083769/156127514-080f9279-a97e-4732-94dc-9941ed6aa314.png)
 
