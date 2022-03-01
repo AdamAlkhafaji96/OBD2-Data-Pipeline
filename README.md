@@ -17,7 +17,7 @@ Monitor the health of vehicles remotely.
 
 # Pre-ETL and Data Ingestion
  1. Start the vehicle engine.
- 2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
+ 2. Plug the OBDLink MX+ bluetooth adapter into the OBD2 port in the vehicle.
  3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
  4. Open the OBDWiz software and run a "diagnostics test".
  5. Save diagnostic report as html file to local disk. 
