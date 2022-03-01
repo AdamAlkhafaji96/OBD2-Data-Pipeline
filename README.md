@@ -40,6 +40,7 @@ Monitor the health of vehicles remotely.
  - 2013 Infiniti M37
  - 2015 Honda Accord
  - 2017 Acura RDX
+ - 2017 Honda Pilot
  - 2017 Toyota Camry
  - 2018 Toyota Camry
  - 2020 Volkswagen Jetta
