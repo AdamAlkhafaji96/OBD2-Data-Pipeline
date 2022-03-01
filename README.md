@@ -56,6 +56,12 @@ Monitor the health of vehicles remotely.
 # Set up
 - [OBDLink MX+ support and set-up](https://www.obdlink.com/support/mxp/#win-mxp)
 
+# Coverage and Compatibility
+
+![image](https://user-images.githubusercontent.com/76083769/156130747-bf3cd1b7-522d-4fae-8f23-c6438ef4499a.png)
+![image](https://user-images.githubusercontent.com/76083769/156130873-99054a4e-0a36-4987-89e1-91f0a335f635.png)
+
+
 # Background info
 - [Controller Area Network (CAN bus) simple intro](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 - [On Board Diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics)
