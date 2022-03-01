@@ -4,18 +4,19 @@ Monitor the health of vehicles remotely.
 # ETL Design 
 ![image](https://user-images.githubusercontent.com/76083769/155837691-7faa2c4e-601f-4ecf-8813-8ac03b1c547c.png)
 
-# Pre-ETL Data Retrieval
+# Pre-ETL and Data Ingestion
  1. Start the vehicle engine.
  2. Plug the OBDLink MX+ bluetooth adapter to the OBD2 port in the vehicle.
  3. Pair the OBDLink MX+ bluetooth adapter to a computer or microcontroller.
  4. Open the OBDWiz software and run a "diagnostics test".
  5. Save diagnostic report as text file to local disk. 
-![image](https://user-images.githubusercontent.com/76083769/155813294-114cc19c-e392-48bc-ac44-c3abc8123374.png)
+![image](https://user-images.githubusercontent.com/76083769/156122181-69638b3f-a950-485c-95e6-ba0bcc20d886.png)
 
 # ETL
  6. Sync data from local folder to AWS S3 input bucket --> _s3://obd-diagnostic-data-input/_
-![image](https://user-images.githubusercontent.com/76083769/155916147-165f73df-317f-4f9a-82ea-dd4cee337097.png)
- 7. S3 sync triggers _processor_lambda.py_ which processes the html diagnostic data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
+![image](https://user-images.githubusercontent.com/76083769/156122285-1c7c8450-b95a-4adb-9e5c-29b14c8fdb0c.png)
+
+7. S3 sync triggers _processor_lambda.py_ which processes the html diagnostic data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
 ![image](https://user-images.githubusercontent.com/76083769/155828172-75d98463-3941-47c4-a441-f4e966637b79.png)
 
