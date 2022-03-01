@@ -31,7 +31,7 @@ Monitor the health of vehicles remotely.
 
 7. S3 sync triggers _processor_lambda.py_ which processes the html diagnostic data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
-![image](https://user-images.githubusercontent.com/76083769/155828172-75d98463-3941-47c4-a441-f4e966637b79.png)
+![image](https://user-images.githubusercontent.com/76083769/156135451-898681c2-7d5b-4ec0-bcfb-fea39c98788e.png)
 
 ![image](https://user-images.githubusercontent.com/76083769/155828238-4be7aea0-fce0-4a6d-b603-0bd8d096c71f.png)
 
