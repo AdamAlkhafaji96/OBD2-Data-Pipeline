@@ -22,12 +22,12 @@ Monitor the health of vehicles remotely.
  4. Open the OBDWiz software and run a "diagnostics test".
  5. Save diagnostic report as text file to local disk. 
 
-![image](https://user-images.githubusercontent.com/76083769/156122181-69638b3f-a950-485c-95e6-ba0bcc20d886.png)
+![image](https://user-images.githubusercontent.com/76083769/156127514-080f9279-a97e-4732-94dc-9941ed6aa314.png)
 
 # ETL
  6. Sync data from local folder to AWS S3 input bucket --> _s3://obd-diagnostic-data-input/_
 
-![image](https://user-images.githubusercontent.com/76083769/156122285-1c7c8450-b95a-4adb-9e5c-29b14c8fdb0c.png)
+![image](https://user-images.githubusercontent.com/76083769/156126845-7434ae87-8c62-43bd-b93e-16b867706fde.png)
 
 7. S3 sync triggers _processor_lambda.py_ which processes the html diagnostic data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
