@@ -32,7 +32,7 @@ Monitor the health of vehicles remotely.
 # ETL
  6. Sync data from local folder to AWS S3 input bucket --> _s3://obd-diagnostic-data-input/_
 
-![image](https://user-images.githubusercontent.com/76083769/156126845-7434ae87-8c62-43bd-b93e-16b867706fde.png)
+![image](https://user-images.githubusercontent.com/76083769/159194181-e7718624-f24c-49fe-94ff-a79d489469c0.png)
 
 7. S3 sync triggers _processor_lambda.py_ which processes the html diagnostic data as a set of parquet tables to AWS S3 output bucket --> _s3://obd-diagnostic-data-output/_
 
