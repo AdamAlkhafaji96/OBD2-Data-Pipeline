@@ -21,7 +21,7 @@ Monitor the health of vehicles remotely.
  - 2018 Ram 1500 
  - 2018 Toyota Camry
  - 2020 Volkswagen Jetta
- - 2021 Toyota Camry 2012
+ - 2021 Toyota Camry 
  - 2022 Kia k5
 
 # Pre-ETL and Data Ingestion
