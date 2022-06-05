@@ -4,14 +4,16 @@ Monitor the health of vehicles remotely.
 # ETL Design 
 ![image](https://user-images.githubusercontent.com/76083769/155837691-7faa2c4e-601f-4ecf-8813-8ac03b1c547c.png)
 
-# 18 Data Sources 
+# 20 Data Sources 
  - 2007 Honda Accord
  - 2008 Ford Fusion
  - 2008 Honda Odyssey
  - 2009 Honda Accord
- - 2011 Nissan Versa 
+ - 2011 Nissan Versa
+ - 2013 Honda Civic  
  - 2013 Infiniti M37
  - 2014 Ford Escape
+ - 2014 Honda Accord
  - 2014 Hyundai Veloster
  - 2015 Honda Accord
  - 2016 Honda Accord 
